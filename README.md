@@ -16,4 +16,4 @@ using a solar panel an amplifier to play these
 signals through a speaker
 
 # Languages Used:
-- JAVA (Audino IDE converts it into C)
+- C++ (Audino IDE code)
