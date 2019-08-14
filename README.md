@@ -1,4 +1,4 @@
-# Final System and both demo-systems:
+# Presentation (Final System and both demo-systems):
 https://www.youtube.com/playlist?list=PLAWcwIUZKg6DyM90fNCLBrv4EtDMB4HeP
 
 # Description:
@@ -14,3 +14,6 @@ our phone we were able to send analog signals
 through our laser module and receive them
 using a solar panel an amplifier to play these
 signals through a speaker
+
+# Languages Used:
+- JAVA (Audino IDE converts it into C)
