@@ -2,6 +2,7 @@
 https://www.youtube.com/playlist?list=PLAWcwIUZKg6DyM90fNCLBrv4EtDMB4HeP
 
 # Description:
+Our project is a visual light communications system that can transmit and receive text (digital data) and sound (analog data) to distances greater than 14 FT. The prject is comprised of two sub-systems:
 - Digital: Our approach was to use a
 microcontroller to serialize text data to be
 transmitted via laser module. To receive this
